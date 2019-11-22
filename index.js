@@ -12,7 +12,7 @@ const [red, orange, yellow, green, blue, indigo, violet] = colors
 
 const [r, o, y, g, b, , v] = colors
 
-const colors[5] = idig
+const [, , , , , indig , ]
 
 const muppet = {
   name: 'Kermit',
