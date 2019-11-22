@@ -2,7 +2,7 @@ const farmAnimals = 'cow horse sheep pig chicken'
 
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(' ')
 
-const [Bessie, Dolly, , Babe, Little] = farmAnimals.split(' ')
+const [Bessie, , Dolly , Babe, Little] = farmAnimals.split(' ')
 
 const [black_and_white, black, , pink,] = farmAnimals.split(' ')
 
