@@ -8,8 +8,6 @@ const [black_and_white, , black, pink, ] = farmAnimals.split(' ')
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
-const [r, o, y, g, b, i, v] = colors
-
 const [r, o, y, g, b, , v] = colors
 
 const muppet = {
